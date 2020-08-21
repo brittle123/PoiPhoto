@@ -12,7 +12,8 @@ public interface Define {
       CONFIGURE = "configure",
       DEFAULT_ALBUM_TITLE = "请选择一个相册",
       DEFAULT_PHOTO_TITLE = "请选择相片",
-      DEFAULT_MAX_NOTICE = "主人，包包装不下了～";
+      DEFAULT_MAX_NOTICE = "主人，包包装不下了～",
+  DEFAULT_DONE_TITLE = "完成";
 
   int DEFAULT_REQUEST_CODE = 94;
 
